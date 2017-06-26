@@ -6,14 +6,15 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
-    "react": "15.2.1",
-    "react-native": "^0.31.0",
+    "react": "15.3.2",
+    "react-native": "^0.38.0",
     "react-native-icons": "^0.7.1",
     "react-native-invertible-scroll-view": "^1.0.0",
     "react-native-scrollable-tab-view": "^0.5.5",
     "react-native-vector-icons": "^2.1.0",
     "react-redux": "4.4.0",
     "redux": "3.3.1",
-    "redux-thunk": "1.0.3"
+    "redux-thunk": "1.0.3",
+    "source-map": "^0.5.6"
   }
 }
